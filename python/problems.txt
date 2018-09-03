@@ -1,0 +1,2 @@
+https://www.hackerrank.com/challenges/manipulative-numbers/problem
+https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=bit-manipulation&filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bdifficulty%5D%5B%5D=medium
